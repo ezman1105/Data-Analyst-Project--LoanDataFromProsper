@@ -1,1 +1,1 @@
-# Data-analysis-project-WeRateDogs
+# Data-analysis-Project-WeRateDogs
