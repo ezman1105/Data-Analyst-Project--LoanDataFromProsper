@@ -1,4 +1,4 @@
-# (Project -- Loan in Prosper)
+# Project -- Loan Data in Prosper
 ## by Chih-Chuan Ma
 
 
